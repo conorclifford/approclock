@@ -1,0 +1,32 @@
+{
+  "uuid": "768da534-43c2-45f0-b07a-647a0c130892",
+  "shortName": "approxlock",
+  "longName": "approxlock",
+  "companyName": "ConorClifford",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {},
+  "resources": {
+    "media": [
+      {
+        "menuIcon": true,
+        "type": "png",
+        "name": "IMAGE_MENU_ICON",
+        "file": "images/menu_icon_approxlock.png"
+      },
+      {
+        "type" : "font",
+        "name" : "FONT_DASHLEY_16",
+        "file" : "fonts/dashley/Dashley_16.ttf"
+      },
+      {
+        "type" : "font",
+        "name" : "FONT_INTUITIVE_34",
+        "file" : "fonts/Intuitive/intuitive_34.ttf"
+      }
+    ]
+  }
+}
